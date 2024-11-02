@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash G Kapadi</h1>
-<h3 align="center">A passionate frontend developer and Cloud Computing and Devops Field</h3>
+<h3 align="center">A passionate frontend developer and Cloud Computing and Devops Field , I have 1.5+ year experience as a react js developer and data analyst</h3>
 
 - 🔭 I’m currently working on **AWS RDS and Dns**
 
