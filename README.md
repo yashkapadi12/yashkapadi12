@@ -63,7 +63,7 @@ These pieces move on their own. GitHub Actions refreshes the calendar and the sn
 </p>
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Animated 3D contribution calendar" />
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D contribution calendar" />
 </p>
 
 <p align="center">
